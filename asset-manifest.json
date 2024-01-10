@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.29839b0c.js",
-    "static/media/home2.jpg": "/static/media/home2.0c926d1a5d704381cae6.jpg",
-    "static/media/SereneZan_Resume.pdf": "/static/media/SereneZan_Resume.cdfcabf64f5187caaac0.pdf",
-    "index.html": "/index.html",
-    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.29839b0c.js.map": "/static/js/main.29839b0c.js.map"
+    "main.css": "/zihan-z11.portfoliopage.io/static/css/main.bf538fe7.css",
+    "main.js": "/zihan-z11.portfoliopage.io/static/js/main.ea85545e.js",
+    "static/media/home2.jpg": "/zihan-z11.portfoliopage.io/static/media/home2.0c926d1a5d704381cae6.jpg",
+    "static/media/SereneZan_Resume.pdf": "/zihan-z11.portfoliopage.io/static/media/SereneZan_Resume.cdfcabf64f5187caaac0.pdf",
+    "index.html": "/zihan-z11.portfoliopage.io/index.html",
+    "main.bf538fe7.css.map": "/zihan-z11.portfoliopage.io/static/css/main.bf538fe7.css.map",
+    "main.ea85545e.js.map": "/zihan-z11.portfoliopage.io/static/js/main.ea85545e.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.29839b0c.js"
+    "static/js/main.ea85545e.js"
   ]
 }
