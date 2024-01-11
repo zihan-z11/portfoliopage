@@ -102,8 +102,7 @@ const Navbar = () => {
             <GitHubButton
               style={{
                 padding: "10px 16px",
-                background: `${theme.primary}`,
-                color: "white",
+                color: "rgba(87, 108, 188, 0.6)",
                 width: "max-content",
               }}
               href={Bio.github}

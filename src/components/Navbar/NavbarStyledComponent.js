@@ -80,7 +80,7 @@ export const GitHubButton = styled.a`
   align-items: center;
   height: 70%;
   border-radius: 20px;
-  color: ${({ theme }) => theme.primary};
+  color: rgba(87, 108, 188, 0.6);
   cursor: pointer;
   padding: 0 20px;
   font-weight: 500;
@@ -88,8 +88,8 @@ export const GitHubButton = styled.a`
   font-size: 16px;
   transition: all 0.6s ease-in-out;
   :hover {
-    background: ${({ theme }) => theme.primary};
-    color: ${({ theme }) => theme.white};
+    background: rgba(87, 108, 188, 0.4);
+    color: "white";
   }
   @media screen and (max-width: 768px) {
     font-size: 14px;
@@ -132,7 +132,7 @@ export const MobileMenu = styled.div`
   right: 0;
   width: 100%;
   padding: 12px 40px 24px 40px;
-  background: ${({ theme }) => theme.card_light + 99};
+  background-color: ${({ theme }) => theme.card};
   transition: all 0.6s ease-in-out;
   transform: ${({ isOpen }) =>
     isOpen ? "translateY(0)" : "translateY(-100%)"};
