@@ -1,7 +1,7 @@
 {
   "name": "serene-zan-portfolio",
   "version": "0.1.0",
-  "homepage": "https://zihan-z11.github.io/portfoliopage.io",
+  "homepage": "https://zihan-z11.github.io/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

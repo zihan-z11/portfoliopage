@@ -1,4 +1,5 @@
 import Resume from "./SereneZan_Resume.pdf";
+import WeatherAppProj from "../img/project1.jpeg";
 
 export const Bio = {
   name: "Serene Zan",
@@ -17,7 +18,7 @@ export const skills = [
     title: "Frontend",
     skills: [
       {
-        name: "React Js",
+        name: "React",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
@@ -51,7 +52,7 @@ export const skills = [
     title: "Backend",
     skills: [
       {
-        name: "Node Js",
+        name: "Node.js",
         image: "https://nodejs.org/static/images/logo.svg",
       },
       {
@@ -213,16 +214,15 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "Weather App",
+    date: "Jan 2024",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: ["React Js", "MongoDb", "Node Js"],
+      "A straightforward and functional weather application that allows users to quickly check the current weather conditions for a specific location. The app utilizes Axios to make API requests to OpenWeatherMap, providing real-time weather data.",
+    image: WeatherAppProj,
+    tags: ["React Js", "CSS", "Axios"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/zihan-z11/react_weather_app",
+    webapp: "https://zihan-z11.github.io/react_weather_app/",
   },
 ];
 
