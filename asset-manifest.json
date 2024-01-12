@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfoliopage.io/static/css/main.bf538fe7.css",
-    "main.js": "/portfoliopage.io/static/js/main.1f42acdc.js",
-    "static/media/home2.jpg": "/portfoliopage.io/static/media/home2.f3505c725d17c10fac36.jpg",
-    "static/media/SereneZan_Resume.pdf": "/portfoliopage.io/static/media/SereneZan_Resume.cdfcabf64f5187caaac0.pdf",
-    "index.html": "/portfoliopage.io/index.html",
-    "main.bf538fe7.css.map": "/portfoliopage.io/static/css/main.bf538fe7.css.map",
-    "main.1f42acdc.js.map": "/portfoliopage.io/static/js/main.1f42acdc.js.map"
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.1451f51c.js",
+    "static/media/home2.jpg": "/static/media/home2.f3505c725d17c10fac36.jpg",
+    "static/media/project1.jpeg": "/static/media/project1.529a92b858c51c277df3.jpeg",
+    "static/media/SereneZan_Resume.pdf": "/static/media/SereneZan_Resume.3085713f0de3b625a9b5.pdf",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.1451f51c.js.map": "/static/js/main.1451f51c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.1f42acdc.js"
+    "static/js/main.1451f51c.js"
   ]
 }
