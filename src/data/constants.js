@@ -1,5 +1,6 @@
 import Resume from "./SereneZan_Resume.pdf";
 import WeatherAppProj from "../img/project1.jpeg";
+import ECommerce from "../img/project2.png";
 
 export const Bio = {
   name: "Serene Zan",
@@ -214,15 +215,27 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Weather App",
+    title: "Weather Sphere",
     date: "Jan 2024",
     description:
       "A straightforward and functional weather application that allows users to quickly check the current weather conditions for a specific location. The app utilizes Axios to make API requests to OpenWeatherMap, providing real-time weather data.",
     image: WeatherAppProj,
-    tags: ["React Js", "CSS", "Axios"],
+    tags: ["React js", "CSS", "Axios"],
     category: "web app",
     github: "https://github.com/zihan-z11/react_weather_app",
     webapp: "https://zihan-z11.github.io/react_weather_app/",
+  },
+  {
+    id: 1,
+    title: "Charmé Aromas",
+    date: "Jan 2024",
+    description:
+      "A front-end e-commerce platform dedicated to fragrance enthusiasts. This project showcases not only technical proficiency in React but also a keen eye for design aesthetics. Implemented with a component-based architecture, which ensures code modularity for enhanced maintainability and scalability.",
+    image: ECommerce,
+    tags: ["React js", "CSS", "UI/UX Design"],
+    category: "web app",
+    github: "https://github.com/zihan-z11/ecommerce_fragrance",
+    webapp: "https://zihan-z11.github.io/ecommerce_fragrance/",
   },
 ];
 
